@@ -1,0 +1,1 @@
+void loadLevel4(int livesLeft, int coinCounter); 
