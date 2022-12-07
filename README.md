@@ -83,27 +83,27 @@ and maintainability.
 
 ## FAQs
 
-Q: Should I download and import all the libraries and applications mentioned above to run the
+-Q: Should I download and import all the libraries and applications mentioned above to run the
 game?
-A: No, generally user can just run the .exe file to play the game. The libraries and applications
+-A: No, generally user can just run the .exe file to play the game. The libraries and applications
 above are used for changing and testing the source code.
-Q: What is the difference between the .cpp and .h files included in the zip folder?
-A: .cpp files contains the C code for the game, while .h files contain the header used for
+-Q: What is the difference between the .cpp and .h files included in the zip folder?
+-A: .cpp files contains the C code for the game, while .h files contain the header used for
 accessing a function from different .cpp file
-Q: My game is blinking and does not run smoothly, what is wrong?
-A: Make sure to close other resource-heavy apps, such as Google Chrome, Zoom Meeting, or
+-Q: My game is blinking and does not run smoothly, what is wrong?
+-A: Make sure to close other resource-heavy apps, such as Google Chrome, Zoom Meeting, or
 other demanding apps to get the best gameplay experience. If such a problem still occurs, try
 running the game on devices with better spec and memory.
-Q: Some resources, like music or images, are not loaded in the game, what can I do?
-A: An unsuccessful unzipping process of the code might be one of the possible causes for this
+-Q: Some resources, like music or images, are not loaded in the game, what can I do?
+-A: An unsuccessful unzipping process of the code might be one of the possible causes for this
 error. To solve it, try running the .exe file directly from the downloaded zip file and do not unzip
 it to another folder. Make sure that all required files (the resources folder, the .cpp file, the .h,
 etc.) are all in the same zipped file to avoid relative path problems.
-Q: .cpp file not found while running the .dev file, what can I do?
-A: Try unzipping the file into a dedicated folder with the same exact name as the current zip
+-Q: .cpp file not found while running the .dev file, what can I do?
+-A: Try unzipping the file into a dedicated folder with the same exact name as the current zip
 folder. Then, you should be able to load the .dev for the dev++ file.
-Q: ID returned 1 exit status, ID returned 5 exit status, and other dev++ problems, what can I do?
-A: For ID returned 1 exit status is probably caused by not closing the game window first before
+-Q: ID returned 1 exit status, ID returned 5 exit status, and other dev++ problems, what can I do?
+-A: For ID returned 1 exit status is probably caused by not closing the game window first before
 compiling and running the code again. ID returned 5 exit status is caused by an unsuccessful
 linking to the added linkers, try to locate which .dll files are broken or wrongly added. Other
 dev++ problem solutions can be found by typing the error message in google.
