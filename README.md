@@ -1,16 +1,15 @@
 # The Lost Girl and Six Coins
 
-Beijing Institute of Technology
-C Programming Module Final Project
+2D RPG Game Made With C and EasyX Graphical Library
 
 ## Table of Contents
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation and Navigation](#installation-and-navigation)
-4. [Directory Structure] (#directory-structure)
-5. [Naming Scheme and Convention] (#naming-scheme)
-6. [Code Explanation] (#code-explanation)
+4. [Directory Structure](#directory-structure)
+5. [Naming Scheme and Convention](#naming-scheme-and-convention)
+6. [Code Explanation](#code-explanation)
 7. [FAQs](#faqs)
 8. [Code Contributors](#code-contributors)
 
@@ -113,3 +112,4 @@ dev++ problem solutions can be found by typing the error message in google.
 
 - Bonifacio Ronald
 - Chandra Geraldy
+C Programming Module - Beijing Institute of Technology @2022
