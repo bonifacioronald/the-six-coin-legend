@@ -110,6 +110,7 @@ dev++ problem solutions can be found by typing the error message in google.
 
 ## Code Contributors
 
+C Programming Module - Beijing Institute of Technology @2022
 - Bonifacio Ronald
 - Chandra Geraldy
-C Programming Module - Beijing Institute of Technology @2022
+
