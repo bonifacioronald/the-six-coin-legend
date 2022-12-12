@@ -1,4 +1,4 @@
-# The Lost Girl and Six Coins
+# The Six Coins Legend
 
 2D RPG Game Made With C and EasyX Graphical Library
 
@@ -15,7 +15,7 @@
 
 ## General Info
 
-"The Lost Girl and Six Coins" is largely inspired by the movie Jumanji with a simplified story and
+"The The Six Coins Legend" is largely inspired by the movie Jumanji with a simplified story and
 rich game plot to attract players’ interest. The game is a 2d-top-down style classic game with
 pixel-art style art. As per the current development stage, the game is planned to have 4 stages,
 each with its unique challenges. The player must survive all the challenges and obstacles to
